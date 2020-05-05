@@ -22,6 +22,7 @@
     "file-saver": "^2.0.2",
     "jspdf": "^1.5.3",
     "jspdf-autotable": "^3.5.3",
+    "ngx-export-as": "^1.4.2",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
